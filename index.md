@@ -1,4 +1,4 @@
-WELCOME(製作中）
+WELCOME to MY WEBSITE
 
 
 姓名：王廷元（WangTingYuan）
